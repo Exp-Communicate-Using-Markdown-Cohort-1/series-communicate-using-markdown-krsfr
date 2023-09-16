@@ -12,3 +12,7 @@
 ```
 print('hello world');
 ```
+
+- [ ] Wake up early
+- [ ] Go to bed early
+- [ ] Drink more water
